@@ -127,6 +127,8 @@ p {
     ),
     url(/images/people-office.jpg);
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   max-width: 1440px;
   height: 600px;
   margin-left: auto;
